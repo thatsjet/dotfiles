@@ -19,7 +19,7 @@ alias doc="cd ~/Documents"
 # Git commands
 alias gs='git status '
 alias ga='git add '
-alias gaa='git add -A'
+#alias gaa='git add -A'
 alias gb='git branch '
 alias gc='git commit'
 alias gd='git diff'
